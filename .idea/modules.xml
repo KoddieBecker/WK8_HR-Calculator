@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Employee Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Employee Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Employee_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Employee_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Employee_Calculator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Employee_Calculator_main.iml" group="Employee_Calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Employee_Calculator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Employee_Calculator_test.iml" group="Employee_Calculator" />
+    </modules>
+  </component>
+</project>
